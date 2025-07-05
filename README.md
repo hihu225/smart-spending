@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="frontend/public/logo.webp" width="100" />
+  <img src="frontend/public/logo1.webp" width="100" />
 </p>
 <h1 align="center">Spend Smart - Effortless Financial Management</h1>
 
